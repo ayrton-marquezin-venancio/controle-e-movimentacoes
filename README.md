@@ -6,7 +6,7 @@ Este projeto transforma uma base **sintética** de procedimentos em informaçõe
 
 ### 🌐 Acesse o dashboard interativo
 
-**[▶ ABRIR O DASHBOARD NO NAVEGADOR](https://ayrton-marquezin-venancio.github.io/controle-prazos-movimentacoes-processuais/)**
+**[▶ ABRIR O DASHBOARD NO NAVEGADOR](https://ayrton-marquezin-venancio.github.io/controle-e-movimentacoes/)**
 
 > **Publicação:** o endereço acima foi preparado para o repositório com nome `controle-prazos-movimentacoes-processuais`. Ele só funcionará depois que os arquivos forem enviados para esse repositório e o **GitHub Pages** for ativado. Caso escolha outro nome, atualize o link. Para a experiência correta, use o endereço do **GitHub Pages**, não o link de visualização do arquivo `.html` no GitHub.
 
