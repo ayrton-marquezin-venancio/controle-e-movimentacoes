@@ -1,6 +1,6 @@
 # Dashboard de Controle de Prazos e Movimentações Processuais
 
-**Projeto de análise de dados e Business Intelligence | Python, Pandas, Matplotlib, HTML, CSS, JavaScript e Plotly.js**
+**Projeto de análise de dados e Business Intelligence | Python, Pandas, Matplotlib e HTML**
 
 Este projeto transforma uma base **sintética** de procedimentos em informações para acompanhamento de prazos, movimentações, distribuição de demandas e qualidade dos dados. O trabalho reúne o processo analítico documentado em um notebook Jupyter e um dashboard interativo publicado como página web estática.
 
