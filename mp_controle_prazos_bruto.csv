@@ -1,0 +1,221 @@
+﻿id_procedimento;tipo_procedimento;promotoria;area;assunto;municipio;data_abertura;data_ultima_movimentacao;prazo_dias;data_limite;situacao;setor_responsavel;quantidade_movimentacoes;prioridade
+PROC-2025-0133;Procedimento Preparatório;2ª Promotoria de Justiça;Patrimônio Público;Contrato administrativo;Nova Iguaçu;2025-12-25;22/08/2026;10;04/01/2026;Arquivado;Assessoria Jurídica;11;Normal
+PROC-2025-0149;Procedimento Administrativo;Promotoria de Tutela Coletiva;Consumidor;Serviço não prestado;São Gonçalo;18.05.2025;28/10/2025;;23/05/2025;Em andamento;Assessoria Jurídica;9;Alta
+PROC-2025-0094;Notícia de Fato;Promotoria de Educação;Educação;Estrutura escolar inadequada;Cabo Frio;26/11/2025;21/02/2026;15;11/12/2025;Suspenso;Central de Apoio;9;Alta
+PROC-2026-0181;;Promotoria de Tutela Coletiva;Urbanismo;Uso irregular do solo;Nova Iguaçu;03/04/2026;25/03/2026;5;16/10/2026;Arquivado;Núcleo Técnico;5;Normal
+;Notícia de Fato;Promotoria de Tutela Coletiva;;Cobrança em duplicidade;Volta Redonda;10/12/2024;12/02/2025;120;09/04/2025;Em andamento;Central de Apoio;5;Alta
+PROC-2026-0039;Procedimento Administrativo;Promotoria de Tutela Coletiva;Infância e Juventude;Evasão escolar;Petrópolis;18.05.2026;22/05/2026;30;17/06/2026;AG. MANIFESTAÇÃO;Assessoria Jurídica;2;Normal
+PROC-2026-0173;Represent.;3ª Promotoria de Justiça;Infância e Juventude; Proteção de criança e adolescente ;Cabo Frio;2026-00-10;06/08/2026;10;10/04/2026;Analise;Gabinete;6;Baixa
+PROC-2024-0210;Procedimento Administrativo;Promotoria de Tutela Coletiva;Consumidor; Falha no atendimento ao consumidor ;Maricá;01/12/2024;30/07/2025;10;11/12/2024;Em andamento;Gabinete;15;Alta
+PROC-2024-0076;Inquérito Civil;Promotoria de Tutela Coletiva;Infância e Juventude;Evasão escolar;Itaboraí;13/12/2024;07/03/2025;5;18/12/2024;Em andamento;Setor Administrativo;8;Normal
+PROC-2026-0143;Notícia de Fato;3 Promotoria de Justiça;Cidadania;Acesso a documento público;São Gonçalo;9/8/26;17/09/2026;45d;23/09/2026;Em andamento;Setor Administrativo;5;Alta
+PROC-2026-0101;Notícia de Fato;3ª Promotoria de Justiça;Cidadania;Falta de informacao ao cidadão;;28/3/26;05/06/2026;120;26/07/2026;Em análise;Assessoria Jurídica;4;Alta
+PROC-2025-0031;Proc. Acompanhamento;Promotoria de Defesa do Consumidor;Consumidor;Falha no atendimento ao consumidor;Petrópolis;09/03/2025;31/07/2025;30;08/04/2025;Em andamento;Setor Administrativo;15;Alta
+PROC-2025-0191;Representação;Promotoria de Meio Ambiente;Urbanismo;Construção sem licença;Cabo Frio;16/09/2025;16/03/2026;120;14/01/2026;Encerrado;Gabinete;3;Normal
+PROC-2026-0010;Procedimento de Acompanhamento;3ª Promotoria de Justiça;Cidadania;Falta de informação ao cidadão;Petrópolis;22/05/2026;13/09/2026;60;21/07/2026;Em andamento;Gabinete;6;Normal
+PROC20250068;Inquérito Civil;1ª Promotoria de Justiça;Cidadania;Atendimento administrativo;Petrópolis;17/07/2025;24/10/2025;10;27/07/2025;Em andamento;Secretaria Processual;7;Alta
+PROC-2025-0219;Procedimento de Acompanhamento;2ª Promotoria de Justiça;Educação;Falta de vagas;Maricá;25/02/2025;26/03/2025;90;;Arquivado;Gabinete;9;Normal
+PROC-2026-0176;Procedimento Preparatório;Promotoria de Meio Ambiente;Urbanismo;Obra irregular;Itaborai;06/09/2026;08/09/2026;5;11/09/2026;Encerrado;Assessoria Jurídica;11;media
+PROC-2025-0019;notícia fato;Promotoria de Tutela Coletiva;Consumidor;Cobrança indevida;Itaboraí;04/09/2025;25/05/2026;;14/09/2025;em andamento;Gabinete;6;Alta
+PROC-2025-0198;Procedimento Preparatório;Promotoria de Saúde;Saúde;Irregularidade em unidade de saúde;Nova Iguaçu;30-03-2025;19/10/2025;5;04/04/2025;Suspenso;Secretaria Processual;5;Normal
+PROC-2025-0067;Representação;Promotoria de Educação;Educação;Irregularidade em escola municipal;Duque de Caxias;16/04/2025;16/06/2025;45;31/05/2025;Em andamento;Núcleo Técnico;4;Normal
+PROC-2025-0190;procedimento acompanhamento;Promotoria de Meio Ambiente;Urbanismo;Obra irregular;ITABORAI;19/02/2025;05/06/2025;120;19/06/2025;Encerrado;Assessoria Jurídica;12;Urgente
+PROC-2026-0097;Procedimento Prep.;Promotoria de Tutela Coletiva;Direitos humanos; Violação de direitos ;Niterói;;02/03/2026;30;10/02/2026;Em andamento;Central de Apoio;6;Normal
+PROC-2025-0211;Procedimento Preparatório;3ª Promotoria de Justiça;Direitos Humanos;Violação de direitos;Volta Redonda;27/10/2025;08/05/2026;90;25/01/2026;Em andamento;Assessoria Jurídica;60;Baixa
+PROC-2026-0176;Procedimento Preparatório;Promotoria de Meio Ambiente;Urbanismo;Obra irregular;Itaborai;06/09/2026;08/09/2026;5;11/09/2026;Encerrado;Assessoria Jurídica;11;media
+PROC-2024-0128;Procedimento Preparatório;Promotoria de Tutela Coletiva;Meio Ambiente;OCUPAÇÃO IRREGULAR;MARICA;19/12/2024;09/10/2025;45;02/02/2025;Em andamento;Núcleo Técnico;10;Baixa
+PROC-2025-0202;Inquérito Civil;;Saúde;IRREGULARIDADE EM UNIDADE DE SAÚDE;Duque de Caxias;28/08/2025;31/08/2025;20;;Encerrado;Assessoria Jurídica;9;Urgente
+PROC-2024-0098;Procedimento Administrativo;3ª Promotoria de Justiça;Infância e Juventude;Acolhimento institucional;cabo frio;23/10/2024;12/03/2025;60;22/12/2024;Aguardando manifestação;Assessoria Jurídica;5;Alta
+PROC-2026-0017;Procedimento Preparatório;Promotoria de Tutela Coletiva;Direitos Humanos;Discriminação em serviço;Itaboraí;06/04/2026;24/06/2026;;26.04.2026;Em análise;Núcleo Técnico;7;Baixa
+PROC-2025-0046;Procedimento Preparatório;Promotoria de Tutela Coletiva;Consumidor;Cobrança em duplicidade;Duque de Caxias;29/11/2025;13/06/2026;20;19/12/2025;em andamento;Setor Administrativo;13;baixa
+PROC-2025-0155;Represent.;Promotoria de Tutela Coletiva;consumidor;Serviço não prestado;São Gonçalo;04/06/2025;28/03/2026;10;14/06/2025;Em andamento;Central de Apoio;10;Normal
+PROC-2025-0112;Procedimento Preparatório;Promotoria de Tutela Coletiva;D. Humanos;Acesso a serviço público;Volta Redonda;25/01/2025;25/09/2025;10;04/02/2025;Arquivado;Núcleo Técnico;9;Normal
+2025-0056;PP;3ª Promotoria de Justiça;Direitos Humanos;Violação de direitos;Volta Redonda;06/12/2025;16/01/2026;;05/01/2026;Em andamento;Assessoria Jurídica;9;Normal
+proc-2024-0109;Notícia de Fato;Promotoria de Educação;Educação;Estrutura escolar inadequada;Cabo Frio;22/10/2024;10/04/2025;5;27/10/2024;Em andamento;Central de Apoio;5;Normal
+PROC-2025-0197;Procedimento Administrativo;Promotoria de Educação;educacao;falta de vagas;Volta Redonda;25/08/2025;;30;24/09/2025;Aguardando manifestação;Secretaria Processual;6;Alta
+PROC-2025-0074;Procedimento Preparatório;3ª Promotoria de Justiça;Cidadania;Acesso a documento público;Nova Iguaçu;10/03/2025;05/10/2025; 5 ;15/03/2025;Em And.;Assessoria Jurídica;4;Alta
+PROC-2025-0110;Inquérito Civil;Promotoria de Educação;Educação;Transporte escolar;São Gonçalo;02/09/2025;03/09/2025;;06/12/2026;Encerrado;;11;Baixa
+PROC-2025-0083;;Promotoria de Meio Ambiente;Meio Ambiente;;Volta Redonda;03/06/2025;09/11/2025;15;;Encerrado;Gabinete;12;Urgente
+PROC-2025-0139;Procedimento Administrativo;3ª Promotoria de Justiça;Direitos Humanos;Violação de direitos;Petrópolis;16/06/2025;03/12/2025;15;01/07/2025;Em andamento;Setor Administrativo;45;Alta
+PROC-2025-0142;Procedimento Administrativo;Meio Ambiente;URBANISMO;Ocupação irregular;Niterói;20/05/2025;07/08/2025;15;04/06/2025;Encerrado;Central de Apoio;5;Alta
+PROC-2026-0102;NF;2ª Promotoria de Justiça;Patrimônio;Licitação pública;Volta Redonda;23/01/2026;28/02/2026;;02/02/2026;encerrado;Núcleo Téc.;7;
+PROC-2026-0087;Inquérito Civil;Promotoria de Meio Ambiente;Urbanismo;Ocupação irregular;Volta redonda;01/01/2026;05/09/2026;120;;Aguardando manifestação;Núcleo Técnico;8;Normal
+PROC-2025-0194;notícia fato;Promotoria de Defesa do Consumidor;Consumidor;Serviço não prestado;Volta Redonda;27/12/2025;29/08/2026;30;01/12/2026;Encerrado;Central de Apoio;80;Alta
+PROC-2026-0121;Notícia de Fato;3ª Promotoria de Justiça;Cidadania;Acesso a documento público;Nova Iguaçu;16/06/2026;19/06/2026;30;16/07/2026;Em análise;Assessoria Jurídica;10;Baixa
+PROC-2026-0096;Procedimento Administrativo;Promotoria de Meio Ambiente;Urbanismo;Uso irregular do solo;Petrópolis;25/8/26;30/08/2026;120;06/08/2026;EM ANALISE;Assessoria Jurídica;7;
+PROC-2025-0080;Representação;1ª Promotoria de Justiça;Saúde;Fila para atendimento;Volta Redonda;26/11/2025;22/04/2026;90;24/02/2026;Em andamento;Secretaria Processual;7;Normal
+PROC-2026-0218;NF;3ª Promotoria de Justiça;Cidadania;Falta de informação ao cidadão;Maricá;14/09/2026;17-09-2026;60;13/11/2026;Em andamento;Central de Apoio;10;Normal
+PROC-2024-0114;Procedimento Administrativo;Promotoria de Tutela Coletiva;Urbanismo;Obra irregular;Nova Iguaçu;22/12/2024;07/03/2025;45;05/02/2025;Arquivado;Central de Apoio;9;Normal
+PROC-2026-0141;Inquérito Civil;1ª Promotoria de Justiça;Cidadania;acesso a documento público;Petropolis;24/07/2026;25/08/2026;60;;Em andamento;Gabinete;9;Normal
+PROC-2025-0123;Representacao;Promotoria de Meio Ambiente;Urbanismo;Uso irregular do solo;Cabo Frio;11/03/2025;17/08/2025;45;25/04/2025;Arquivado;Secretaria Processual;3;Baixa
+PROC-2025-0163;Representação;Promotoria de Meio Ambiente;URBANISMO;Obra irregular;Petrópolis;07/02/2025;;;17/02/2025;Encerrado;Central de Apoio;8;Baixa
+PROC-2026-0216;Inquérito Civil;1a Promotoria;Patrimônio Público;;Volta Redonda;05/06/2026;05/07/2026;45d;20/07/2026;Em andamento;Assessoria Jurídica;11;Normal
+PROC-2026-0039;Procedimento Administrativo;Promotoria de Tutela Coletiva;Infância e Juventude;Evasão escolar;Petrópolis;18.05.2026;22/05/2026;30;17/06/2026;AG. MANIFESTAÇÃO;Assessoria Jurídica;2;Normal
+PROC-2025-0025;Procedimento de Acompanhamento;;Cidadania;Acesso a documento público;Volta Redonda;18/08/2025;12/09/2025;5;28/12/2026;Arquivado;Central de Apoio;5;BAIXA
+PROC-2025-0186;procedimento acompanhamento;Promotoria de Tutela Coletiva;Infância e Juventude;Proteção de criança e adolescente;CABO FRIO;10/09/2025;28/05/2026;120;08/01/2026;Em andamento;Secretaria Processual;6;
+PROC-2025-0138;;1ª Promotoria de Justiça;Patrimônio Público;Uso irregular de recursos;Petrópolis;01/11/2025;23/04/2026;60;31/12/25;Em And.;Secretaria Processual;8;Normal
+PROC-2025-0030;Representação;Promotoria de Meio Ambiente;Urbanismo;construção sem licença;Niterói;06/08/2025;10-08-2025;120;04/12/2025;Em análise;Gabinete;12;Normal
+PROC-2026-0020;Procedimento Administrativo;Promotoria de Tutela Coletiva;urbanismo;Ocupação irregular;Maricá;;17/03/2026;60;29/03/2026;Encerrado;Núcleo Téc.;11;Média
+PROC-2025-0070;Procedimento Administrativo;Promotoria de Meio Ambiente;urbanismo;Acessibilidade urbana;Itaboraí;26/12/2025;30/03/2026;45;09/02/2026;Em andamento;Secretaria Processual;7;media
+PROC-2026-0206;PROCEDIMENTO ADMINISTRATIVO;Promotoria de Defesa do Consumidor;Consumidor;Falha no atendimento ao consumidor;RJ Capital;01/01/2026;05/07/2026;120;01/05/2026;Suspenso;Central de Apoio;4;Normal
+PROC-2025-0061;Representação;Promotoria de Tutela Coletiva;Direitos Humanos;Atendimento a pessoa com deficiência;São Gonçalo;17/01/2025;21/07/2025;60;18/03/2025;Encerrado;Setor Administrativo;15;Normal
+PROC-2024-0069;Inquérito Civil;;Saúde;Fila para atendimento;;16/11/2024;26/08/2025;;21/11/2024;EM ANDAMENTO;Secretaria Processual;4;Normal
+PROC-2026-0006;Inquérito Civil;Promotoria de Tutela Coletiva;Direitos Humanos;Violação de direitos;Duque de Caxias;08/01/2026;01.04.2026;45;22/02/2026;Aguardando manifestação;Setor Administrativo;6;Urgente
+PROC-2026-0140;Procedimento de Acompanhamento;Promotoria de Tutela Coletiva;Direitos Humanos;Discriminacao em serviço;Petrópolis;02/06/2026;11/07/2026;10;12/06/2026;Suspenso;Setor Administrativo;-1;alta
+PROC-2025-0106;Inquérito Civil;2a Promotoria;;Estrutura escolar inadequada;Cabo Frio;16/02/2025;06/10/2025;60;17/04/2025;Aguardando manifestação;Gabinete;11;Alta
+PROC-2025-0157;Procedimento Preparatório;2ª Promotoria de Justiça;Educação;Irregularidade em escola municipal;Nova Iguaçu;20/08/2025;10/05/2026;30;19/09/2025;Em andamento;Setor Administrativo;9;Normal
+PROC-2025-0177;Inquérito Civil;1ª Promotoria de Justiça;Patrimônio Público;Uso irregular de recursos;Petrópolis;2025-09-19;24/11/2025;60;18/11/2025;Em andamento;;11;Normal
+PROC-2025-0164;Procedimento Administrativo;Promotoria de Saúde;Saúde;Irregularidade em unidade de saúde;Volta Redonda;15/10/2025;30/05/2026;45;29/11/2025;Encerrado;Assessoria Jurídica;9;Normal
+PROC-2026-0066;Procedimento Preparatório;2ª Promotoria de Justiça;Patrimônio Público;Irregularidade em contratação;Petropolis;20/04/2026;17/07/2026;120;18/08/2026;Aguardando manifestação;Assessoria Jurídica;9;Normal
+PROC-2025-0113;Procedimento Administrativo;Promotoria de Tutela Coletiva;Meio Ambiente; Fornecimento de água ;Maricá;05/08/2025;20-08-2025;90;03/11/2025;Encerrado;;-1;Normal
+PROC-2026-0187;Representação;Promotoria de Defesa do Consumidor;Consumidor; Cobrança em duplicidade ;Cabo Frio;21/05/2026;30/08/2026;30;20/06/2026;Encerrado;Setor Administrativo;7;Alta
+PROC-2026-0156;Notícia de Fato;Promotoria de Saúde;Saúde;Irregularidade em unidade de saúde;Itaboraí;13/09/2026;15/09/2026;90;12/12/2026;Em andamento;Gabinete;10;Baixa
+PROC-2025-0032;Representação;3ª Promotoria de Justiça;Cidadania;Acesso a benefício;Nova Iguaçu;15/06/2025;01/08/2025;5;20/06/2025;;Assessoria Jurídica;9;Alta
+PROC-2025-0013;Representação;Promotoria de Tutela Coletiva;Infância e Juventude;Convivência familiar;Volta Redonda;11/03/2025;12/03/2025;90;;Aguardando manifestação;Central de Apoio;2;Alta
+PROC-2024-0036;Procedimento Preparatório;Promotoria de Saúde;Saúde;Irregularidade em unidade de saúde;Nova Iguacu;26/10/2024;14/04/2025;15d;10/11/2024;Em andamento;Setor Administrativo;6;Baixa
+PROC-2025-0029;Notícia de Fato;Promotoria de Tutela Coletiva;Consumidor;Falha no atendimento ao consumidor;Niterói;07/05/2025;19/09/2025;120;04/09/2025;Suspenso;Assessoria Jurídica;8;Normal
+PROC-2026-0043;Procedimento de Acompanhamento;Promotoria de Saúde;Saúde;Fornecimento de insumos;Nova Iguaçu;06/05/2026;17/08/2026; 30 ;05/06/2026;Em andamento;Núcleo Técnico;9;
+PROC-2026-0085;Procedimento Preparatório;Promotoria de Tutela Coletiva;Urbanismo;Ocupação irregular;cabo frio;11/01/2026;17/02/2026;120;11/05/2026;Encerrado;Gabinete;11;alta
+PROC-2026-0105;Notícia de Fato;Tutela Coletiva;Urbanismo;uso irregular do solo;Rio de Janeiro;27/07/2026;03/08/2026;60;25/09/2026;Em andamento;Núcleo Técnico;10;Baixa
+PROC-2025-0151;IC;1ª Promotoria de Justiça;Cidadania;Acesso a benefício;Rio de Janeiro;22.01.2025;23/05/2025;30;21/02/2025;Em andamento;Setor Administrativo;8;Alta
+PROC-2025-0052;Inquérito Civil;Promotoria de Tutela Coletiva;Meio Ambiente;Fornecimento de água;Maricá;25/10/2025;28/10/2025;90;23/01/2026;Suspenso;;9;Normal
+PROC-2025-0125;Representação;Promotoria de Tutela Coletiva;Direitos Humanos;Acessibilidade urbana;Rio de Janeiro;18/07/2025;13/04/2026;;;Em andamento;Central de Apoio;9;Baixa
+PROC-2025-0178;Procedimento Preparatório;2ª Promotoria de Justiça;Educação;transporte escolar;Duque de Caxias;08/01/2025;;5d;26/12/2024;Em análise;Gabinete;8;alta
+PROC20260077;Procedimento Preparatório;3ª Promotoria de Justiça;Direitos Humanos;Violação de direitos;Cabo Frio;25/02/2026;17/02/2026;120;25/06/2026;Em andamento;Núcleo Técnico;6;Alta
+PROC-2025-0042;Notícia de Fato;3ª Promotoria de Justiça;Direitos Humanos;Violação de direitos;Maricá;17/11/2025;27/08/2026;30;17/12/2025;Arquivado;Núcleo Técnico;6;Normal
+PROC-2026-0136;Procedimento Administrativo;2ª Promotoria de Justiça;Patrimônio Público;Prestação de contas;Niterói;31/01/2026;10/03/2026;120;31/05/2026;Arquivado;Assessoria Jurídica;7;Urg.
+PROC-2025-0079;Procedimento Administrativo;Promotoria de Meio Ambiente;Urbanismo;Uso irregular do solo;Petrópolis;04/04/2025;11/12/2025;60;03/06/2025;Encerrado;Assessoria Jurídica;11;
+PROC-2025-0179;PP;2ª Promotoria de Justiça;Patrimônio Público;Contrato administrativo;Nova Iguaçu;13/03/2025;2025/12/01;;11/06/2025;Finalizado;Secretaria Processual;10;Urgente
+PROC 2024 0027;Procedimento de Acompanhamento;Prom. Tutela Coletiva;Meio Ambiente;Fornecimento de água;Nova Iguaçu;23/12/2024;17/10/2025;;2025-02-21;ANDAMENTO;Setor Administrativo;8;Normal
+PROC-2026-0147;;1ª Promotoria de Justiça;Cidadania;Acesso a documento público;Nova Iguaçu;13/03/2026;24/05/2026;10;23/03/2026;Encerrado;Central de Apoio;4;Baixa
+PROC-2024-0174;Procedimento Administrativo;;Patrimônio Público;;Duque de Caxias;2024/11/12;2024-12-23;5;17/11/2024;Aguardando manifestação;Núcleo Técnico;9;Normal
+;Procedimento Preparatório;1ª Promotoria de Justiça;Cidadania;Atendimento em serviço público;Duque de Caxias;18/03/2025;09/12/2025;;02/05/2025;ANDAMENTO;Núcleo Técnico;10;Baixa
+PROC-2025-0001;Notícia de Fato;Promotoria de Defesa do Consumidor;Consumidor;Cobrança indevida;Volta Redonda;09/07/2025;31/10/2025;;01/12/2026;Encerrado;;6;Baixa
+PROC-2026-0003;Inquérito Civil;Promotoria de Meio Ambiente;Meio Ambiente;Poluição sonora;Duque de Caxias;15/09/2026;17/09/2026;60 dias;14/11/2026;Arquivado;Assessoria Jurídica;6;URGENTE
+PROC-2025-0078;procedimento acompanhamento;3ª Promotoria de Justiça;Infância e Juventude;Maus-tratos contra menores;Nova Iguaçu;02/01/2025;23/10/2025;20;22/01/2025;Arquivado;;6;Normal
+PROC-2025-0047;Procedimento Preparatório;Promotoria de Defesa do Consumidor;Consumidor;cobrança em duplicidade;Volta Redonda;13/05/2025;02/02/2026;15;08/05/2025;Em andamento;Secretaria Processual;12;Normal
+PROC-2024-0154;Procedimento Administrativo;3 Promotoria de Justiça;Cidadania;Atendimento administrativo;Petrópolis;21/10/2024;18/06/2025;60;20/12/2024;Em andamento;Secretaria Processual;11;Normal
+PROC-2025-0119;Procedimento Administrativo;3ª Promotoria de Justiça;Direitos Humanos;ACESSIBILIDADE URBANA;São Gonçalo;22.07.2025;18/01/2026;30;21/08/2025;Arquivado;Gabinete;5;Alta
+PROC-2026-0091;Inquérito Civil;Tutela Coletiva;Infância e Juventude;Acolhimento institucional;PETROPOLIS;01/07/2026;11/07/2026;60;30/08/2026;arquivo;Núcleo Técnico;10;Alta
+proc-2025-0155;Represent.;Promotoria de Tutela Coletiva;consumidor;Serviço não prestado;SAO GONCALO;2025-06-04;28/03/2026;10;14/06/2025;Em andamento;Central de Apoio;10;Normal
+PROC-2025-0148;Procedimento Administrativo;Promotoria de Tutela Coletiva;Direitos Humanos;Acessibilidade urbana;;2025-05-16;10/11/2025;90;;Encerrado;Assessoria Jurídica;8;Normal
+PROC-2025-0099;Procedimento de Acompanhamento;2a Promotoria;Educação;Estrutura escolar inadequada;São Gonçalo;26/09/2025;01/01/2026;;16/10/2025;Em andamento;Setor Administrativo;9;Normal
+PROC-2025-0037;Inquérito Civil;Promotoria de Tutela Coletiva;Meio Ambiente;Ocupação irregular;;16/05/2025;06/01/2026;20;02/05/2025;Em andamento;Setor Administrativo;9;Normal
+PROC-2025-0126;Inquérito Civil;2ª Promotoria de Justiça;EDUCAÇÃO;Falta de vagas;;05/05/2025;12/09/2025; 15 ;20/05/2025;Em andamento;Setor Administrativo;9;Normal
+PROC-2026-0062;Proc. Preparatório;Promotoria de Tutela Coletiva;Infância e Juventude;Proteção de criança e adolescente;Petrópolis;05/04/2026;02/08/2026;90;04/07/2026;Susp.;Secretaria Processual;8;Normal
+PROC-2026-0158;Procedimento Administrativo;2ª Promotoria de Justiça;Patrimônio;Licitação pública;Maricá;03/08/2026;18/07/2026;45;17/09/2026;Em análise;Setor Adm.;6;Normal
+PROC-2025-0145;Notícia de Fato;2ª Promotoria de Justiça;Educação;Estrutura escolar inadequada;Cabo Frio;02/06/2025;28/01/2026;noventa;;Arquivado;Núcleo Técnico;8;Urgente
+PROC-2025-0118;Procedimento de Acompanhamento;Promotoria de Tutela Coletiva;Consumidor;Serviço não prestado;Niteroi;00/05/2025;13/03/2025;;11/06/2025;;ADMINISTRATIVO;7;Urgente
+PROC-2025-0034;Procedimento Preparatório;1ª Promotoria de Justiça;;Acesso a documento público;Rio de Janeiro;14/10/2025;28/12/2025;120;;Em andamento;;7;Alta
+PROC-2025-0012;Representação;Promotoria de Tutela Coletiva;Urbanismo;Construção sem licença;Volta Redonda;15/06/2025;2025/06/20;120;;Aguardando manifestação;Setor Administrativo;12;Média
+PROC-2024-0215;Notícia de Fato;Promotoria de Meio Ambiente;Ambiental;Poluição sonora;Rio de Janeiro;15/11/2024;27/06/2025;;14/01/2025;;Assessoria Jurídica;7;Normal
+PROC-2025-0184;Procedimento de Acompanhamento;1ª Promotoria de Justiça;Patrimônio Público;Contrato administrativo;Rio de Janeiro;22/04/2025;13/11/2025;120;20/08/2025;Em andamento;Setor Administrativo;7;Normal
+PROC-2026-0007;Representação;Prom. Consumidor;Consumidor;FALHA NO ATENDIMENTO AO CONSUMIDOR;São Gonçalo;13/07/2026;19/09/2026;15;28/07/2026;Encerrado;Assessoria Jurídica;11;Urgente
+PROC-2025-0028;Inquérito Civil;3ª Promotoria de Justiça;Infância e Juventude;Convivência familiar;Rio de Janeiro;12/02/2025;04.10.2025;30;14/03/2025;encerrado;central de apoio;9;Urgente
+PROC-2026-0137;;Promotoria de Tutela Coletiva;Consumidor;Falha no atendimento ao consumidor;Itaboraí;24/07/2026;26/07/2026;;08/08/2026;Encerrado;Central de Apoio;9;Baixa
+proc-2025-0191;Representação;Promotoria de Meio Ambiente;Urbanismo;Construção sem licença;cabo frio;16/9/25;16/03/2026;120;14/01/2026;Encerrado;Gabinete;3;Normal
+PROC-2026-0204;Representação;Promotoria de Saúde;Saúde;Irregularidade em unidade de saúde;Nova Iguaçu;03/09/2026;;;2027/01/01;Encerrado;Gabinete;4 movimentações;Normal
+PROC-2025-0005;Procedimento Administrativo;3ª Promotoria de Justiça;Infância e Juventude;Proteção de criança e adolescente;Nova Iguaçu;06/10/2025;10/11/2025;20;26/10/2025;;Gabinete;7;Alta
+PROC-2025-0033;Procedimento de Acompanhamento;3ª Promotoria de Justiça;;Evasão escolar;Niterói;27/12/2025;02/08/2026;120;26/04/2026;Em andamento;Setor Administrativo;5;Alta
+PROC-2025-0120;Procedimento de Acompanhamento;1ª Promotoria de Justiça;Patrimônio Público;Prestação de contas;Maricá;12/10/2025;03/03/2026;10;22/10/2025;Suspenso;Central de Apoio;7;Normal
+PROC-2025-0160;Procedimento Administrativo;1ª Promotoria de Justiça;Saúde;Fornecimento de insumos;Nova Iguaçu;28/07/2025;18/09/2025;45;11/09/2025;Em andamento;Central de Apoio;9;Alta
+PROC-2026-0127;Procedimento de Acompanhamento;1ª Promotoria de Justiça;Saúde;Irregularidade em unidade de saúde;Niterói;30/03/2026;05/08/2026;;19/04/2026;Encerrado;ADMINISTRATIVO;9;Baixa
+PROC-2025-0159;Inquérito Civil;Promotoria de Tutela Coletiva;Direitos Humanos;Violação de direitos;Niterói;2025-13-02;20/12/2025; 90 ;09/07/2025;Aguardando Manifestacao;Secretaria Processual;5;Normal
+proc-2025-0034;Procedimento Preparatório;1ª Promotoria de Justiça;;Acesso a documento público;Rio Janeiro;14-10-2025;28/12/2025;120;;Em andamento;;7;Alta
+PROC-2025-0011;REP;Promotoria de Tutela Coletiva;Consumidor;Cobrança indevida;Cabo Frio;21/01/2025;12/04/2025;15;05/02/2025;Em andamento;Núcleo Técnico;50;Média
+PROC-2026-0063;Proc. Administrativo;Promotoria de Meio Ambiente;Urbanismo;Ocupação irregular;Petropolis;19/01/2026;15/04/2026;60;20/03/2026;Em andamento;Gabinete;10;Normal
+PROC-2024-0165;Procedimento de Acompanhamento;2ª Promotoria de Justiça;Educação;Irregularidade em escola municipal;Volta redonda;27/10/2024;09/07/2025;15;11/11/2024;Em andamento;Assessoria Jurídica;12;Alta
+PROC-2026-0195;PROCEDIMENTO ADMINISTRATIVO;Promotoria de Saúde;Saúde;;Duque de Caxias;23/06/2026;24/07/2026;20;13/07/2026;Em andamento;Núcleo Técnico;72;Normal
+PROC-2026-0182;Inquérito Civil;Promotoria de Tutela Coletiva;Direitos Humanos;acessibilidade urbana;Niterói;07/05/2026;25.06.2026;120;04/09/2026;Encerrado;Núcleo Técnico;5;Alta
+PROC-2026-0129;Procedimento Administrativo;2ª Promotoria de Justiça;Patrimônio Público;Contrato administrativo;Niterói;25/6/26;10/08/2026;90;23/09/2026;EM ANDAMENTO;Central de Apoio;6;Normal
+PROC-2025-0199;Procedimento de Acompanhamento;Promotoria de Tutela Coletiva;consumidor;Serviço não prestado;São Gonçalo;19/07/2025;23/04/2026;;17/10/2025;Suspenso;Núcleo Técnico;9;Normal
+PROC20260168;Notícia de Fato;Promotoria de Saúde;;Fila para atendimento;D. de Caxias;05/03/2026;05/04/2026;20;02/10/2026;Arquivado;Secretaria Processual;;Normal
+PROC-2026-0071;Notícia de Fato;Promotoria de Tutela Coletiva;;Falha no atendimento ao consumidor;Niterói;07/07/2026;26/07/2026;5;12/07/2026;Em análise;;7 mov.;Normal
+PROC-2025-0171;Procedimento de Acompanhamento;1ª Promotoria de Justiça;Cidadania;Atendimento administrativo;Niterói;05/04/2025;12/11/2025;;20/04/2025;Encerrado;Assessoria Jurídica;10;
+PROC-2026-0065;Procedimento Administrativo;Promotoria de Educação;Educação;Problema em matrícula;Nova Iguaçu;24/07/2026;21/08/2026;90;22/10/2026;em andamento;ADMINISTRATIVO;;Normal
+PROC-2025-0045;Notícia de Fato;1ª Promotoria de Justiça;Patrimônio Público;Licitação pública;Rio de Janeiro;32/01/2026;21/09/2025;30 dias;28/06/2025;Em andamento;Núcleo Técnico;5;Normal
+PROC-2024-0144;REP;Promotoria de Saúde;Saúde;Irregularidade em unidade de saúde;Itaboraí;14/11/2024;19/05/2025;60;13/01/2025;Arquivado;Setor Administrativo;8;Alta
+PROC-2025-0041;Procedimento de Acompanhamento;2ª Promotoria de Justiça;Educação;Falta de vagas;Niterói;16/12/2025;03/06/2026;10;26/12/2025;;;8;Normal
+PROC-2025-0124;Procedimento Preparatório;Promotoria de Tutela Coletiva;Meio Ambiente;Descarte irregular de resíduos;Maricá;06/07/2025;08/02/2026;90;04/10/2025;Em andamento;Central de Apoio;11;Baixa
+PROC-2025-0024;Procedimento Preparatório;Tutela Coletiva;Meio Ambiente;Ocupação irregular;São Gonçalo;29/06/2025;;;29/12/2026;Encerrado;Gabinete;;Urgente
+PROC-2025-0166;Procedimento Administrativo;Promotoria de Educação;Educação;Estrutura escolar inadequada;Niterói;20/07/2025;30.10.2025;90 dias;18/10/2025;Encerrado;Setor Administrativo;8;Média
+PROC-2026-0162;Procedimento de Acompanhamento;Promotoria de Meio Ambiente;Meio Ambiente;Descarte irregular de resíduos;;19/08/2026;11/09/2026;60;18/10/2026;Em andamento;Central de Apoio;5;Normal
+PROC-2024-0082;Procedimento de Acompanhamento;Promotoria de Tutela Coletiva;Urbanismo;Acessibilidade urbana;Nova Iguaçu;22/11/2024;2025/04/07;20;12/12/2024;Encerrado;Setor Administrativo;6;Normal
+PROC-2025-0040;Procedimento Administrativo;3ª Promotoria de Justiça;Cidadania;Acesso a documento público;Rio de Janeiro;30/10/2025;09/03/2026;20;19/11/2025;Encerrado;Central de Apoio;8;Alta
+PROC-2026-0185;Procedimento de Acompanhamento;Promotoria de Tutela Coletiva;Urbanismo;Construção sem licença;PETROPOLIS;11/01/2026;15-06-2026;15;26/01/2026;Em análise;Ass. Jurídica;0;Baixa
+PROC-2026-0048;Procedimento de Acompanhamento;Prom. Meio Ambiente;Urbanismo;Construção sem licença;Volta Redonda;26/04/2026;17/08/2026;45d;10/06/2026;Encerrado;Gabinete;10;Alta
+proc-2025-0197;Procedimento Administrativo;Promotoria de Educação;educacao;falta de vagas;Volta redonda;25/8/25;;30;24/09/2025;Aguardando manifestação;Secretaria Processual;6;Alta
+PROC-2026-0169;Procedimento Administrativo;2ª Promotoria de Justiça;Patrimônio Público;Irregularidade em contratação;Maricá;18/04/2026;10/05/2026;15;03/05/2026;Em análise;Setor Administrativo;6;media
+PROC-2025-0044;;2ª Promotoria de Justiça;Patrimônio Público;Irregularidade em contratação;Sao Goncalo;27/12/2025;15/04/2026;90;27/03/2026;Arquivado;Assessoria Jurídica;3;Normal
+PROC-2026-0146;;3ª Promotoria de Justiça;Direitos Humanos;Acesso a serviço público;Nova Iguacu;25/03/2026;05/05/2026;60;24/05/2026;Em andamento;Núcleo Técnico;3;ALTA
+PROC-2025-0153;;2 Promotoria de Justiça;educacao;Estrutura escolar inadequada;Niterói;01/12/2025;13/01/2026;15;13/11/2025;Em análise;C. Apoio;7;Normal
+PROC-2025-0004;procedimento administrativo;Tutela Coletiva;Direitos Humanos;Acessibilidade urbana;Volta Redonda;03/10/2025;15/02/2026;45;17/11/2025;Em andamento;Núcleo Técnico;7;Baixa
+PROC-2025-0106;Inquérito Civil;2a Promotoria;;Estrutura escolar inadequada;Cabo Frio;16/02/2025;06/10/2025;60;17/04/2025;Aguardando manifestação;Gabinete;11;Alta
+PROC-2026-0054;PAcomp;3ª Promotoria de Justiça;Direitos Humanos;Discriminacao em serviço;Maricá;22/01/2026;30/06/2026;15;06/02/2026;Arquivado;Setor Administrativo;4;Baixa
+PROC-2026-0134;Inquérito Civil;Promotoria de Tutela Coletiva;Infância e Juventude;Convivência familiar;Niterói;06/01/2026;04/02/2026;5;11/01/2026;Arquivado;Secretaria Processual;7;Normal
+PROC-2025-0200;Representação;Promotoria de Defesa do Consumidor;Consumidor;Serviço não prestado;RIO DE JANEIRO;16/03/2025;25/07/2025;90;14/06/2025;Aguardando manifestação;Assessoria Jurídica;11;Normal
+PROC-2025-0172;PA;2ª Promotoria de Justiça;Patrimônio Público;Contrato administrativo;Duque de Caxias;20/09/2025;12/02/2026;120;18/01/2026;Arquivado;Central de Apoio;4;Normal
+PROC-2025-0205;Procedimento Preparatório;1ª Promotoria de Justiça;Saúde;Irregularidade em unidade de saúde;Volta Redonda;06/03/2025;13/02/2025;90;4/6/25;Suspenso;Gabinete;6;Alta
+PROC-2025-0050;Procedimento Administrativo;Promotoria de Educação;Educação;Falta de vagas;São Gonçalo;09/09/2025;12/06/2026;45;24/10/2025;Em And.;Setor Administrativo;6;Baixa
+PROC-2025-0081;Representação;2ª Promotoria de Justiça;Patrimônio Público;Licitação pública;Maricá;18/11/2025;18/11/2025;;18/03/2026;Em andamento;Central de Apoio;6;Normal
+PROC-2026-0035;Procedimento de Acompanhamento;;Educação;Transporte escolar;Cabo Frio;14/08/2026;05/09/2026;10;24/08/2026;Aguardando manifestação;GAB.;9;Alta
+PROC-2026-0008;Notícia de Fato;1ª Promotoria de Justiça;CIDADANIA;Atendimento em serviço público;Petrópolis;02/09/2026;03/09/2026;45;17/10/2026;Encerrado;Secretaria Processual;4 mov.;Normal
+PROC-2024-0111;Procedimento de Acompanhamento;PTC;MEIO AMBIENTE;Poluição sonora;Rio de Janeiro;16/10/2024;14/02/2025;45;30/11/2024;em andamento;Secretaria Processual;6;Baixa
+PROC-2024-0092;Notícia de Fato;Promotoria de Meio Ambiente;Ambiental;Fornecimento de água;Maricá;10/12/2024;06/05/2025;;30/12/2024;Em análise;Setor Administrativo;13;Alta
+PROC-2025-0084;Representação;Tutela Coletiva;CONSUMIDOR;COBRANÇA EM DUPLICIDADE;Volta Redonda;29/01/2025;11/10/2025;;13/02/2025;Aguardando manifestação;Núcleo Técnico;7;Alta
+PROC-2026-0196;Procedimento de Acompanhamento;Promotoria de Tutela Coletiva;Urbanismo;Obra irregular;Marica;29/08/2026;29/08/2026;15;;Arquivado;Núcleo Técnico;8;Normal
+PROC-2026-0201;Procedimento de Acompanhamento;2 Promotoria de Justiça;educacao;Transporte escolar;Niterói;18/06/2026;11/08/2026;60;17/08/2026;;Secretaria;7;normal
+PROC-2026-0090;;Promotoria de Tutela Coletiva;Urbanismo;Obra irregular;Maricá;23/03/2026;26/03/2026;90;21/06/2026;Suspenso;Gabinete;0;Baixa
+PROC20260009;Representação;2ª Promotoria de Justiça;Patrimônio Público;Contrato administrativo;São Gonçalo;03/08/2026;28/08/2026;90;01/11/2026;Em andamento;Gabinete;8 movimentações;ALTA
+PROC-2026-0014;Inquérito Civil;3ª Promotoria de Justiça;Infância e Juventude;Proteção de criança e adolescente;Volta Redonda;16/06/2026;05/07/2026;20d;06/07/2026;Em análise;Central de Apoio;8;
+PROC-2025-0060;Procedimento de Acompanhamento;Promotoria de Tutela Coletiva;Infancia e Juventude;Proteção de criança e adolescente;Petrópolis;01/02/2025;28/07/2025;5;17/10/2026;Encerrado;Setor Administrativo;6;Normal
+PROC-2026-0214;NF;Promotoria de Meio Ambiente;Meio Ambiente;Ocupação irregular;Niteroi;22/06/2026;22/07/2026;5;27/06/2026;Arquivado;Núcleo Técnico;10;Normal
+PROC-2026-0132;Procedimento de Acompanhamento;;Consumidor;Publicidade enganosa;Cabo Frio;06/07/2026;;90;04/10/2026;Arquivado;Central de Apoio;8;Normal
+PROC-2025-0018;Notícia de Fato;Promotoria de Educação;Educação;irregularidade em escola municipal;Rio de Janeiro;12/09/2025;22-06-2026;5;17/09/2025;Arquivado;Setor Administrativo;8;Urg.
+PROC-2026-0167;Procedimento de Acompanhamento;Promotoria de Tutela Coletiva;Consumidor;Serviço não prestado;Nova Iguaçu;15/08/2026;19/08/2026;45;29/09/2026;Suspenso;;14;
+PROC-2026-0073;Notícia de Fato;3ª Promotoria de Justiça;Direitos Humanos;Violação de direitos;Nova Iguaçu;06/05/2026;31/05/2026;5;;Arquivado;Gabinete;8;Normal
+2025-0193;Procedimento Preparatório;;Infância e Juventude;Acolhimento institucional;São Gonçalo;02/02/2025;15/08/2025;120;2025/06/02;Em andamento;Assessoria Jurídica;6;Urgente
+PROC-2026-0135;Representação;1ª Promotoria de Justiça;Cidadania;Acesso a benefício;Itaboraí;17/01/2026;18/09/2026;120;17/05/2026;EM ANALISE;Central de Apoio;5;Normal
+PROC-2026-0183;Procedimento Administrativo;Promotoria de Tutela Coletiva;Infância e Juventude;;Petrópolis;28/08/2026;01/09/2026;10;07/09/2026;Aguardando manifestação;Assessoria Jurídica;12;Normal
+PROC-2025-0209;Representação;;Infância e Juventude;Maus-tratos contra menores;Cabo Frio;29/02/2025;11/11/2025;30;10/12/2025;EM ANDAMENTO;Núcleo Técnico;9;Normal
+PROC 2025 0064;Procedimento Administrativo;3ª Promotoria de Justiça;;;Niterói;14/07/2025;24/04/2026;30;13/08/2025;Em andamento;Núcleo Téc.;5;Normal
+PROC-2026-0055;IC;Promotoria de Tutela Coletiva;Direitos Humanos;Discriminação em serviço;Petrópolis;16/01/2026;28/01/2026;;31.01.2026;Em andamento;Assessoria Jurídica;0;media
+PROC-2026-0108;Procedimento Preparatório;Promotoria de Tutela Coletiva;Consumidor;Serviço não prestado;Duque de Caxias;11/04/2026;26/04/2026;45;21/03/2026;Em análise;Núcleo Técnico;4;Baixa
+PROC-2025-0051;Procedimento de Acompanhamento;2ª Promotoria de Justiça;Educação;Irregularidade em escola municipal;MARICA;29/11/2025;17/05/2026;60;28-01-2026;Em andamento;Núcleo Téc.;5;Normal
+PROC-2026-0175;Representação;Promotoria de Tutela Coletiva;Meio Ambiente; Ocupação irregular ;Itaboraí;05/07/2026;11/08/2026;120;;Em andamento;Setor Administrativo;7;Normal
+PROC-2025-0217;Procedimento Prep.;1ª Promotoria de Justiça;Cidadania;Atendimento administrativo;Petrópolis;31/02/2025;07/01/2026;60;28/05/2025;Em análise;Setor Administrativo;7;media
+PROC-2026-0170;Inquérito Civil;3ª Promotoria de Justiça;Direitos Humanos;Atendimento a pessoa com deficiência;Itaboraí;12/05/2026;13/06/2026;10;22/05/2026;Encerrado;Central de Apoio;8;Normal
+PROC-2026-0059;Representação;3ª Promotoria de Justiça;Infância/Juventude;Proteção de criança e adolescente;Niteroi;25/08/2026;06/09/2026;;24/10/2026;em andamento;Setor Administrativo;13;normal
+PROC-2025-0049;PAcomp;Promotoria de Meio Ambiente;Urbanismo;Acessibilidade urbana;Duque de Caxias;23/06/2025;11/11/2025;20;13/07/2025;Em andamento;Secretaria Processual;7;Alta
+PROC-2026-0089;Procedimento Administrativo;3ª Promotoria de Justiça;Direitos Humanos;Atendimento a pessoa com deficiência;Volta Redonda;2026-08-11;11/09/2026;15;26/08/2026;Em análise;Assessoria Jurídica;9;Alta
+PROC-2026-0022;Procedimento Administrativo;1ª Promotoria de Justiça;Saúde;Fila para atendimento;Volta Redonda;17/01/2026;09/01/2026;noventa;06/02/2026;Em andamento;Setor Administrativo;8;
+PROC-2026-0058;Notícia de Fato;Promotoria de Educação;Educação;Problema em matrícula;São Gonçalo;17/09/2026;19/09/2026;30;17/10/2026;Em análise;Secretaria Processual;8 mov.;Normal
+PROC-2025-0161;Representação;1ª Promotoria de Justiça;Saúde;Irregularidade em unidade de saúde;;25/09/2025;16/10/2025;90;;Em análise;Assessoria Juridica;0;
+PROC20250213;INQUÉRITO CIVIL;1ª Promotoria de Justiça;Cidadania;;Nova Iguaçu;24/05/2025;14/01/2026;20;;Em andamento;Setor Administrativo;5;Alta
+PROC-2026-0188;Procedimento de Acompanhamento;2ª Promotoria de Justiça;Educação;Irregularidade em escola municipal;SAO GONCALO;21/05/2026;11/06/2026;;19/08/2026;Em andamento;Gabinete;12;Baixa
+PROC-2025-0192;REPRESENTAÇÃO;Promotoria de Tutela Coletiva;Infância e Juventude;Evasão escolar;Petrópolis;01.08.2025;;30;31/08/2025;Encerrado;Central de Apoio;0;Urgente
+PROC-2025-0130;Inquérito Civil;Promotoria de Defesa do Consumidor;Consumidor;Cobrança em duplicidade;Niterói;14/08/2025;05/12/2025;45;28/09/2025;Encerrado;Secretaria Processual;10;Normal
+PROC-2024-0038;Representação;2ª Promotoria de Justiça;;Uso irregular de recursos;Volta Redonda;11/12/2024;08/06/2025;30;10/01/2025;Em andamento;Secretaria Processual;5;Baixa
+PROC-2026-0158;Procedimento Administrativo;2ª Promotoria de Justiça;Patrimônio;Licitação pública;Maricá;03/08/2026;18/07/2026;45;17/09/2026;Em análise;Setor Adm.;6;Normal
+PROC-2024-0208;Procedimento de Acompanhamento;3ª Promotoria de Justiça;Cidadania;Acesso a benefício;Itaboraí;26/11/2024;01.02.2025;90;24.02.2025;arquivo;Central de Apoio;10;Normal
+PROC-2025-0002;Procedimento de Acompanhamento;Promotoria de Defesa do Consumidor;Consumidor;Publicidade enganosa;Volta Redonda;27/05/2025;09/06/2025;120;2025-09-24;Encerrado;Núcleo Téc.;7;Normal
+PROC-2025-0053;Inq. Civil;3ª Promotoria de Justiça;Cidadania;Atendimento administrativo;Itaboraí;14/05/2025;03/09/2025;90;2025/08/12;Em andamento;Assessoria Jurídica;6;Normal
+PROC-2026-0150;Procedimento Administrativo;Promotoria de Tutela Coletiva;Urbanismo;Ocupação irregular;Rio de Janeiro;24/01/2026;30/06/2026;90;24/04/2026;Em andamento;Gabinete;8;Normal
+PROC-2025-0131;Procedimento Administrativo;Promotoria de Educação;Educação;Falta de vagas;Nova Iguaçu;2025-09-25;23/01/2026;15;19/09/2025;Em andamento;Central de Apoio;14;Baixa
+PROC-2025-0152;Procedimento Administrativo;Promotoria de Tutela Coletiva;Urbanismo;Obra irregular;São Gonçalo;22/01/2025;02/01/2025;90;22/4/25;Em andamento;Secretaria Processual;9;Normal
+proc-2024-0038;Representação;2ª Promotoria de Justiça;;Uso irregular de recursos;Volta redonda;11-12-2024;08/06/2025;30;10/01/2025;Em andamento;Secretaria Processual;5;Baixa
+PROC-2024-0100;Procedimento Administrativo;Promotoria de Tutela Coletiva;Infância e Juventude;Convivência familiar;Petrópolis;04/11/2024;10/01/2025;45;19/10/2024;Aguardando manifestação;Gabinete;6;Normal
+PROC-2026-0117;Notícia de Fato;Promotoria de Tutela Coletiva;Direitos Humanos;Violação de direitos;Niterói;13/08/2026;;30;12/09/2026;Em andamento;;11;Baixa
+PROC-2026-0088;Procedimento Preparatório;1ª Promotoria de Justiça;Pat. Público;Contrato administrativo;Maricá;15/09/2026;19-09-2026;20;;Em andamento;Setor Administrativo;7;Normal
+PROC-2026-0203;Representação;Promotoria de Tutela Coletiva;Infância e Juventude;Proteção de criança e adolescente;Duque de Caxias;10/05/2026;15/07/2026;5;15/05/2026;Em andamento;Secretaria Processual;4;Normal
+PROC-2026-0075;;Tutela Coletiva;Urbanismo;Obra irregular;Maricá;04/09/2026;12/09/2026;20;24/09/2026;Em andamento;Gabinete;8 movimentações;Normal
+PROC-2026-0122;Notícia de Fato;Promotoria de Saúde;Saúde;Fornecimento de insumos;Niterói;05/08/2026;09/08/2026;60;04/10/2026;Aguardando manifestação;Gabinete;10;media
+PROC-2025-0220;Inquérito Civil;;Infância e Juventude;Evasão escolar;Volta Redonda;04/09/2025;22/04/2026;10;14/09/2025;;Gabinete;12;Baixa
+PROC-2024-0021;Procedimento Administrativo;Promotoria de Meio Ambiente;Meio Ambiente;Descarte irregular de resíduos;Duque de Caxias;02/12/2024;24/05/2025;60;31/01/2025;Em And.;Núcleo Técnico;6;Baixa
+proc-2024-0189;Procedimento Preparatório;Promotoria de Defesa do Consumidor;Consumidor;Publicidade enganosa;Maricá;20/10/2024;29/03/2025;90;18/01/2025;Aguardando manifestação;Núcleo Técnico;8;Normal
+PROC-2026-0072;;Promotoria de Tutela Coletiva;Direitos Humanos;ACESSO A SERVIÇO PÚBLICO;Itaboraí;03/06/2026;;20;23/6/26;Em análise;Assessoria Jurídica;7;alta
+PROC-2026-0107;Procedimento Administrativo;Promotoria de Tutela Coletiva;Consumidor;Cobrança em duplicidade;Duque de Caxias;;28/07/2026;60;22/08/2026;Encerrado;Gabinete;8;Alta
+PROC-2024-0015;Inquérito Civil;1ª Promotoria de Justiça;Patrimônio Público;Irregularidade em contratação;Rio de Janeiro;20/10/2024;23/04/2025;10;30/10/2024;Em andamento;Central de Apoio;12;Urgente
+PROC-2025-0093;Procedimento Administrativo;Promotoria de Tutela Coletiva;Consumidor;Cobrança em duplicidade;Rio de Janeiro;20/03/2025;03/04/2025;30;19/04/2025;Em andamento;Ass. Jurídica;;Normal
+PROC-2025-0180;Inquérito Civil;1ª Promotoria de Justiça;;Acesso a benefício;Rio de Janeiro;04/06/2025;29/03/2026;20;24/06/2025;Em andamento;Central de Apoio;8;
+PROC-2026-0103;Representação;3ª Promotoria de Justiça;Cidadania;Acesso a documento público;Cabo Frio;09/01/2026;30/06/2026;45;23/02/2026;Encerrado;Setor Administrativo;6;Urgente
